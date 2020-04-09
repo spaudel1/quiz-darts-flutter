@@ -11,7 +11,6 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
- 
   final _questions = const [
     {
       'questionText': 'What\'s your favourate color?',
@@ -30,12 +29,9 @@ class _MyAppState extends State<MyApp> {
   var _questionIndex = 0;
 
   void _resetQuiz() {
-    setState(() {
-
-    });
+    setState(() {});
     _questionIndex = 0;
   }
-
 
   void _answerQuestion() {
     setState(() {
