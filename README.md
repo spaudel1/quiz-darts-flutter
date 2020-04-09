@@ -5,7 +5,7 @@ Flutter is Google’s UI toolkit for building beautiful, natively compiled appli
 ## Getting Started
 
 ### System reuirement
-[To insall and run fultter, Read this system requirement](https://flutter.dev/docs/get-started/install/macos)
+To insall and run fultter, [Read this system requirement](https://flutter.dev/docs/get-started/install/macos)
 
 ### Help
 For help getting started with Flutter, view our
